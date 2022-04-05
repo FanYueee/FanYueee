@@ -5,4 +5,4 @@ Hello, I'm FanYueee, currently a high school student, and this is my GitHub page
 
 **Discord:** FanYueee#4213
 
-**E-Mail:** fanyueee@mcse.me
+**E-Mail:** fanyueee@skyfantasy.studio
