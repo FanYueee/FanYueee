@@ -1,16 +1,20 @@
-## Hello World 👋
-Hello, 我是 FanYueee 可以稱呼我為 繁月，目前是一位平凡的高中生，偶爾可能會放上甚麼東西來也說不定!?
+<h1 align="center">Hi 👋, I'm FanYueee</h1>
+<h3 align="center">I am a senior high school student who is interested in coding.</h3>
 
-大多數時間我都持續的開發 Minecraft伺服器，這是我的喜好也是我無聊的時候殺時間的選擇.w.
+- 🌱 I’m currently learning: **Java**
 
-最近開始也接觸到 coding 來自主開發一些專案
-## info 資訊
-**Name:** FanYueee(繁月)
+- 📝 My Blog: [https://blog.fanyueee.cc](https://blog.fanyueee.cc)
 
-**Discord:** FanYueee#6090
+- 📫 How to reach me: **hi@fanyueee.cc**
 
-**Minecraft ID/IGN:** FanYueee
+- 📄 Know about my experiences: [https://fanyueee.cc](https://fanyueee.cc)
 
-**E-Mail:** hi@fanyueee.cc
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/vproxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vproxy" height="30" width="40" /></a>
+</p>
 
-**Blog:** https://blog.fanyueee.cc
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanyueee&show_icons=true&locale=en" alt="fanyueee" /></p>
