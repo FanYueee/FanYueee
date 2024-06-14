@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning: **Java**
 
-- 📝 My Blog: [https://blog.fanyueee.cc](https://blog.fanyueee.cc)
+- 📝 My Blog: [https://blog.fanyue.ee](https://blog.fanyueee.cc)
 
-- 📫 How to reach me: **hi@fanyueee.cc**
+- 📫 How to reach me: **hi@fanyue.ee**
 
-- 📄 Know about my experiences: [https://fanyueee.cc](https://fanyueee.cc)
+- 📄 Know about my experiences: [https://fanyue.ee](https://fanyue.ee)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
